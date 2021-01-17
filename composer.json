@@ -85,7 +85,7 @@
             "web/profiles/contrib/{$name}": ["type:drupal-profile"],
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
-        },
+        }
         "patches": {
             "drupal/responsive_menu": {
                 "Disable keyboard input": "https://www.drupal.org/files/issues/off_canvas_menu-2826965-11.patch"
