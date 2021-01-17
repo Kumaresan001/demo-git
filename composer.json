@@ -1,10 +1,1 @@
 
-composer --version
-Composer version 1.1.0 2016-05-10 15:21:19
-
-php --version
-PHP 5.4.45-3+deb.sury.org~precise+1 (cli) (built: Jan  7 2016 15:32:17)
-Copyright (c) 1997-2014 The PHP Group
-Zend Engine v2.4.0, Copyright (c) 1998-2014 Zend Technologies
-    with Zend Debugger v6.0.0, Copyright (c) 1999-2013, by Zend Technologies
-    with blackfire v1.10.5, https://blackfire.io, by Blackfireio Inc.
