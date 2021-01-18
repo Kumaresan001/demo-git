@@ -38,9 +38,6 @@ jobs:
           key: v1-dependencies-{{ checksum "composer.json" }}
           paths:
             - ./vendor
-      - restore_cache:
-          keys:
-                  - run: yarn install
       - save_cache:
           key: node-v1-{{ checksum "package.json" }}
           paths:
